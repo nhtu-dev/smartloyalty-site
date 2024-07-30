@@ -1,0 +1,74 @@
+2023-06-24T00:21:22+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T00:24:34+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T00:27:56+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wpdb.php on line 2397
+
+2023-06-24T00:27:57+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T00:28:21+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wpdb.php on line 2397
+
+2023-06-24T00:29:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wpdb.php on line 2397
+
+2023-06-24T00:30:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wpdb.php on line 2431
+
+2023-06-24T00:30:28+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wpdb.php on line 2431
+
+2023-06-24T00:32:00+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wpdb.php on line 2397
+
+2023-06-24T00:33:38+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T00:38:25+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T00:44:19+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T00:47:58+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T00:53:13+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T01:24:04+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T01:48:50+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T02:44:13+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T03:32:05+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T03:50:09+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T04:25:55+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T04:29:40+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T05:04:41+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T07:01:01+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T07:26:04+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T09:08:34+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T09:20:38+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T09:51:17+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T10:11:01+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T12:21:45+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T12:49:06+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T13:56:36+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T14:48:35+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T14:59:52+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T15:34:45+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T17:21:27+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T18:26:09+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2023-06-24T21:27:09+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 150442000 bytes) in /home/smartloyal/domains/smartloyalty.mauwebsite.work/public_html/wp-includes/class-wp-image-editor-gd.php on line 111
+

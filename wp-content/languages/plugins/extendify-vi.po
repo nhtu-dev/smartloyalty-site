@@ -1,0 +1,1238 @@
+# Translation of Plugins - Extendify — Gutenberg Patterns and Templates - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Extendify — Gutenberg Patterns and Templates - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-17 14:46:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.10\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Extendify — Gutenberg Patterns and Templates - Stable (latest release)\n"
+
+#: public/build/extendify-library-91fe85ac2ccfb0f2275b.js:3
+#: src/Library/components/Modal.jsx:26
+msgid "Pattern added"
+msgstr "Mẫu đã được thêm"
+
+#: public/build/extendify-library-91fe85ac2ccfb0f2275b.js:3
+#: src/Library/components/Modal.jsx:65
+msgid "Design Patterns"
+msgstr "Mẫu thiết kế"
+
+#: public/build/extendify-library-91fe85ac2ccfb0f2275b.js:1
+#: src/Library/components/sidebar/SiteTypeControl.jsx:44
+msgid "Site Type: %s"
+msgstr "Loại trang: %s"
+
+#: public/build/extendify-library-91fe85ac2ccfb0f2275b.js:1
+#: src/Library/components/sidebar/CategoryControl.jsx:105
+#: src/Library/components/sidebar/SiteTypeControl.jsx:62
+msgid "Fetching..."
+msgstr "Đang tải..."
+
+#: public/build/extendify-library-91fe85ac2ccfb0f2275b.js:1
+#: src/Library/components/sidebar/CategoryControl.jsx:97
+msgid "Retrying..."
+msgstr "Đang thử lại..."
+
+#: public/build/extendify-library-91fe85ac2ccfb0f2275b.js:1
+#: src/Library/components/sidebar/CategoryControl.jsx:74
+msgid "All"
+msgstr "Tất cả"
+
+#: public/build/extendify-library-91fe85ac2ccfb0f2275b.js:1
+#: src/Library/components/sidebar/CategoryControl.jsx:40
+msgid "Design Type"
+msgstr "Loại thiết kế"
+
+#: public/build/extendify-library-91fe85ac2ccfb0f2275b.js:1
+#: src/Library/components/ModalContent.jsx:80
+msgid "Loading more patterns..."
+msgstr "Đang tải thêm mẫu..."
+
+#: public/build/extendify-library-91fe85ac2ccfb0f2275b.js:1
+#: src/Library/components/ModalContent.jsx:38
+#: src/Library/components/ModalContent.jsx:70
+msgid "Loading Patterns..."
+msgstr "Đang tải Mẫu..."
+
+#: public/build/extendify-library-91fe85ac2ccfb0f2275b.js:1
+#: src/Library/components/BlockPreviewButton.jsx:28
+msgid "Insert Pattern"
+msgstr "Chèn mẫu"
+
+#: app/Library/Admin.php:182
+msgid "Extendify Library User Settings"
+msgstr "Cài đặt người dùng Thư viện Extendify"
+
+#. translators: at the end of the sentence, there is a link to the terms of use
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:3
+#: src/Draft/Draft.jsx:127
+msgid "In order to use the AI-powered content drafting tool, you must agree to the terms of use. For more information, click on this link:"
+msgstr "Để sử dụng công cụ soạn thảo nội dung hỗ trợ bởi AI, bạn phải đồng ý với các điều khoản sử dụng. Để biết thêm thông tin, hãy nhấp vào liên kết này:"
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:3
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:3
+#: src/Chat/components/ChatDialog.jsx:155 src/Draft/Draft.jsx:140
+msgid "Accept"
+msgstr "Chấp nhận"
+
+#. translators: at the end of the sentence, there is a link to the terms of use
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:3
+#: src/Chat/components/ChatDialog.jsx:142
+msgid "In order to use the AI-powered chatbot to answer your WordPress questions, you must agree to the terms of use. For more information, click on this link:"
+msgstr "Để sử dụng chatbot dựa trên AI để trả lời câu hỏi WordPress của bạn, bạn phải đồng ý với các điều khoản sử dụng. Để biết thêm thông tin, nhấp vào liên kết này:"
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:3
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:3
+#: src/Chat/components/ChatDialog.jsx:137
+#: src/Chat/components/ChatDialog.jsx:148 src/Draft/Draft.jsx:122
+#: src/Draft/Draft.jsx:133
+msgid "Terms of Use"
+msgstr "Điều khoản sử dụng"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/PagesSelect.jsx:141
+msgid "View more pages"
+msgstr "Xem thêm trang"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/PagesSelect.jsx:108
+msgid "We already selected the most common pages for your type of website."
+msgstr "Chúng tôi đã chọn sẵn những trang phổ biến nhất cho loại trang web của bạn."
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/PagesSelect.jsx:107
+msgid "Pick the pages to add to your website"
+msgstr "Chọn các trang để thêm vào trang web của bạn"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/PagesSelect.jsx:35
+msgid "Home page"
+msgstr "Trang chủ"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/HomeSelect.jsx:36
+msgid "Pick a design for your website"
+msgstr "Chọn một thiết kế cho trang web của bạn"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/Goals.jsx:38
+msgid "We'll make sure your website has what it needs to achieve your goals."
+msgstr "Chúng tôi sẽ đảm bảo rằng trang web của bạn có những gì cần thiết để đạt được mục tiêu của bạn."
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/Goals.jsx:37
+msgid "What are your goals for your website?"
+msgstr "Mục tiêu của bạn cho website là gì?"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/SiteTypeSelect.jsx:26
+msgid "We will help you create your WordPress website quickly."
+msgstr "Chúng tôi sẽ giúp bạn tạo trang web WordPress nhanh chóng."
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/SiteTypeSelect.jsx:25
+msgid "What is your WordPress site about?"
+msgstr "Trang WordPress của bạn nói về điều gì?"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/SiteTypeSelect.jsx:82
+msgid "Searching..."
+msgstr "Đang tìm kiếm..."
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/SiteInformation.jsx:96
+msgid "Enter your website name"
+msgstr "Nhập tên trang web của bạn"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/CreatingSite.jsx:167
+msgid "Helping you to succeed"
+msgstr "Giúp bạn thành công"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/CreatingSite.jsx:85
+msgid "Adding page content"
+msgstr "Thêm nội dung trang"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/CreatingSite.jsx:60
+msgid "Installing necessary plugins"
+msgstr "Đang cài đặt các plugin cần thiết"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/CreatingSite.jsx:47
+msgid "Creating a beautiful website"
+msgstr "Tạo một trang web đẹp mắt"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/CreatingSite.jsx:46
+msgid "Applying your website styles"
+msgstr "Áp dụng kiểu dáng cho website của bạn"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/CreatingSite.jsx:79
+msgid "Personalizing your experience"
+msgstr "Cá nhân hóa trải nghiệm của bạn"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/CreatingSite.jsx:78
+msgid "Populating data"
+msgstr "Đang điền dữ liệu"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/InsertMenu.jsx:185
+msgid "Discard"
+msgstr "Loại bỏ"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/InsertMenu.jsx:179
+msgid "Try again"
+msgstr "Thử lại"
+
+#. translators: %s is the number of tasks
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:3
+#: public/build/extendify-assist-page-3d77963d316910116588.js:3
+#: src/Assist/components/Recommendations.jsx:41
+msgid "%s dismissed"
+msgstr "%s đã bị bỏ qua"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/Recommendations.jsx:39
+msgid "View all recommendations"
+msgstr "Xem tất cả các đề xuất"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/Draft.jsx:110
+msgid "Draft with AI"
+msgstr "Nháp với AI"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/Draft.jsx:100
+msgid "Edit or review"
+msgstr "Sửa hoặc xem xét"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/InsertMenu.jsx:156
+msgid "Insert below"
+msgstr "Chèn bên dưới"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/InsertMenu.jsx:146
+msgid "Replace selected block text"
+msgstr "Thay thế văn bản khối đã chọn"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/Input.jsx:41
+msgid "Ask AI to generate text"
+msgstr "Yêu cầu AI tạo văn bản"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/Input.jsx:40
+msgid "AI is writing..."
+msgstr "AI đang viết..."
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/EditMenu.jsx:150
+msgid "Simplify language"
+msgstr "Đơn giản hóa ngôn ngữ"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/EditMenu.jsx:128
+#: src/Draft/components/InsertMenu.jsx:172
+msgid "Make longer"
+msgstr "Làm dài hơn"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/EditMenu.jsx:106
+#: src/Draft/components/InsertMenu.jsx:164
+msgid "Make shorter"
+msgstr "Làm ngắn hơn"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/EditMenu.jsx:84
+msgid "Fix spelling & grammar"
+msgstr "Sửa chính tả & ngữ pháp"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/EditMenu.jsx:62
+msgid "Improve writing"
+msgstr "Cải thiện kỹ năng viết"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/DraftMenu.jsx:93
+msgid "Job description…"
+msgstr "Mô tả công việc..."
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/DraftMenu.jsx:85
+msgid "Write a job description for"
+msgstr "Viết mô tả công việc cho"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/DraftMenu.jsx:79
+msgid "Pros and cons list…"
+msgstr "Danh sách ưu và nhược điểm..."
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/DraftMenu.jsx:71
+msgid "Write a pros and cons list for"
+msgstr "Viết danh sách ưu và nhược điểm cho"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/DraftMenu.jsx:65
+msgid "Press release…"
+msgstr "Thông cáo báo chí..."
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/DraftMenu.jsx:57
+msgid "Write a press release for"
+msgstr "Viết một thông cáo báo chí cho"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/DraftMenu.jsx:51
+msgid "Poem…"
+msgstr "Bài thơ…"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/DraftMenu.jsx:44
+msgid "Write a poem about"
+msgstr "Viết một bài thơ về"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/DraftMenu.jsx:39
+msgid "Outline…"
+msgstr "Phác thảo…"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/DraftMenu.jsx:31
+msgid "Write an outline for"
+msgstr "Viết một outline cho"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/DraftMenu.jsx:17
+msgid "Write a blog post about"
+msgstr "Viết một bài blog về"
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/dialog/Support.jsx:17
+msgid "For other questions, visit our support page."
+msgstr "Đối với các câu hỏi khác, hãy truy cập trang hỗ trợ của chúng tôi."
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/dialog/Header.jsx:92
+msgid "Hide the chat bot"
+msgstr "Ẩn bot chat"
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/dialog/Header.jsx:80
+msgid "WordPress Comfort Level"
+msgstr "Mức độ thoải mái với WordPress"
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/ChatDialog.jsx:127
+#: src/Chat/components/dialog/Header.jsx:54
+msgid "Recent History"
+msgstr "Lịch sử gần đây"
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/dialog/Header.jsx:18
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/dialog/Header.jsx:17
+msgid "Intermediate"
+msgstr "Trung cấp"
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/dialog/Header.jsx:16
+msgid "Beginner"
+msgstr "Người mới học"
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/dialog/Rating.jsx:46
+msgid "Rate that this answer was not helpful"
+msgstr "Đánh giá rằng câu trả lời này không hữu ích"
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/dialog/Rating.jsx:27
+msgid "Rate that this answer was helpful"
+msgstr "Đánh giá mức độ hữu ích của câu trả lời này"
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/dialog/Rating.jsx:26
+#: src/Chat/components/dialog/Rating.jsx:45
+msgid "Remove rating"
+msgstr "Xóa đánh giá"
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/ChatSettings.jsx:20
+msgid "Enable the AI Chatbot"
+msgstr "Kích hoạt Chatbot AI"
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/dialog/Question.jsx:28
+msgid "Ask your WordPress question…"
+msgstr "Đặt câu hỏi về WordPress của bạn…"
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/dialog/Question.jsx:22
+msgid "Ask me any questions about WordPress."
+msgstr "Hãy đặt cho tôi bất kỳ câu hỏi nào về WordPress."
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/dialog/Question.jsx:19
+msgid "Hi there!"
+msgstr "Xin chào!"
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/dialog/Answer.jsx:79
+msgid "Ask Another Question"
+msgstr "Đặt câu hỏi khác"
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/dialog/Answer.jsx:33
+msgid "Oops! We were unable to send your question."
+msgstr "Ồ! Chúng tôi không thể gửi câu hỏi của bạn."
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/dialog/Error.jsx:13
+msgid "Please try again."
+msgstr "Xin vui lòng thử lại."
+
+#: public/build/extendify-chat-836793e4c16cd05b3013.js:1
+#: src/Chat/components/ChatButton.jsx:11
+msgid "AI Chat"
+msgstr "Chat AI"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/notices/WelcomeNotice.jsx:58
+msgid "The Site Assistant is your go-to dashboard to help you get the most out of your site."
+msgstr "Trợ lý Web là bảng điều khiển giúp bạn tận dụng tối đa trang web của mình."
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/SupportArticles.jsx:38
+msgid "Back to Knowledge Base home"
+msgstr "Quay lại trang chủ của Cơ sở kiến thức"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/support-articles/SearchResults.jsx:50
+msgid "Go back to the list of Blocks"
+msgstr "Quay lại danh sách các khối"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/support-articles/SearchResults.jsx:49
+msgid "Go to the list of Blocks"
+msgstr "Đi đến danh sách các block"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/support-articles/SearchResults.jsx:29
+msgid "Sorry, we couldn't find anything"
+msgstr "Xin lỗi, chúng tôi không thể tìm thấy bất cứ thứ gì"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/support-articles/SearchForm.jsx:49
+msgid "Search for articles"
+msgstr "Tìm kiếm bài viết"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/support-articles/Breadcrumbs.jsx:42
+msgid "Search results for \"%s\""
+msgstr "Kết quả tìm kiếm cho \"%s\""
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/support-articles/Breadcrumbs.jsx:24
+msgid "Knowledge Base home"
+msgstr "Trang chủ của Cơ sở kiến thức"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:7
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: src/Assist/components/dashboard/Tours.jsx:59
+#: src/Assist/components/ToursList.jsx:52
+msgid "Guided tours are optimized for large screens, ensuring the best possible experience."
+msgstr "Các tour hướng dẫn được tối ưu hóa cho màn hình lớn, đảm bảo trải nghiệm tốt nhất."
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/RecommendationsBanner.jsx:37
+msgid "Dismiss Banner"
+msgstr "Hủy biểu ngữ"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/Recommendations.jsx:38
+#: src/Assist/components/dashboard/TasksList.jsx:54
+msgid "View all (%s)"
+msgstr "Xem tất cả (%s)"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: src/Assist/components/global/AssistAdminBarTourThisPage.jsx:29
+msgid "Tour this page"
+msgstr "Tham quan trang này"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:7
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: src/Assist/components/dashboard/KnowledgeBase.jsx:31
+#: src/Assist/components/global/AssistAdminBarHelpCenterSubMenu.jsx:13
+#: src/Assist/components/SupportArticles.jsx:41
+#: src/Assist/hooks/useRouter.js:46 src/Assist/tours/site-assistant.js:92
+msgid "Knowledge Base"
+msgstr "Cơ sở kiến thức"
+
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: src/Assist/pages/parts/Header.jsx:56
+msgid "Menu"
+msgstr "Menu"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:5
+#: public/build/extendify-assist-page-3d77963d316910116588.js:5
+#: src/Assist/components/ToursList.jsx:32
+msgid "Get going with these WordPress tours"
+msgstr "Bắt đầu với những hướng dẫn này của WordPress"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/Launch.jsx:22
+msgid "Set Site Title"
+msgstr "Đặt Tên trang web"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/Launch.jsx:9
+#: src/Assist/components/dashboard/Launch.jsx:18
+#: src/Assist/components/dashboard/Launch.jsx:27
+#: src/Assist/components/dashboard/Launch.jsx:36
+#: src/Assist/components/dashboard/Launch.jsx:45
+msgid "Create a super-fast, beautiful, and fully customized site in minutes with our Site Launcher."
+msgstr "Tạo một trang web siêu nhanh, đẹp và hoàn toàn tùy chỉnh trong vài phút với Site Launcher của chúng tôi."
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/CreatingSite.jsx:92
+msgid "Home"
+msgstr "Trang chủ"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/support-articles/SupportArticle.jsx:126
+msgid "There was an error loading this article"
+msgstr "Đã xảy ra lỗi khi tải bài viết này"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/support-articles/SearchResults.jsx:19
+msgid "There was an error loading articles"
+msgstr "Đã có lỗi khi tải các bài viết"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:7
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: src/Assist/components/dashboard/Tours.jsx:33
+#: src/Assist/components/global/AssistAdminBarHelpCenterSubMenu.jsx:18
+#: src/Assist/hooks/useRouter.js:34 src/Assist/tours/site-assistant.js:119
+msgid "Tours"
+msgstr "Chuyến tham quan"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:5
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:5
+#: src/Assist/components/dashboard/Tours.jsx:22
+#: src/Assist/components/ToursList.jsx:23
+msgid "No tours found..."
+msgstr "Không tìm thấy tour nào..."
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/buttons/TourButton.jsx:15
+msgid "Start Tour"
+msgstr "Bắt đầu hướng dẫn"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/buttons/TourButton.jsx:13
+msgid "Restart Tour"
+msgstr "Khởi động lại \"\""
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:7
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: src/Assist/components/global/AssistAdminBarHelpCenter.jsx:16
+#: src/Assist/pages/Dashboard.jsx:26
+msgid "Help Center"
+msgstr "Trung tâm trợ giúp"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/KnowledgeBase.jsx:15
+#: src/Assist/components/SupportArticles.jsx:88
+msgid "No support articles found..."
+msgstr "Không tìm thấy bài viết hỗ trợ nào..."
+
+#: app/Assist/Controllers/SupportArticlesController.php:109
+msgid "Page not found"
+msgstr "Không tìm thấy trang"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Assist/tours/style-editor.js:262 src/Assist/tours/style-editor.js:295
+#: src/Launch/pages/HomeSelect.jsx:24
+msgid "Layout"
+msgstr "Bố cục"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/CreatingSite.jsx:146
+msgid "Events"
+msgstr "Sự kiện"
+
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: src/Assist/pages/parts/Nav.jsx:23
+msgid "Assist navigation"
+msgstr "Hỗ trợ điều hướng"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/notices/WelcomeNotice.jsx:69
+msgid "Take a tour"
+msgstr "Tham quan"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:7
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: src/Assist/components/dashboard/Recommendations.jsx:32
+#: src/Assist/hooks/useRouter.js:40 src/Assist/tours/site-assistant.js:63
+msgid "Recommendations"
+msgstr "Đề xuất"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:3
+#: public/build/extendify-assist-page-3d77963d316910116588.js:3
+#: src/Assist/components/TasksList.jsx:42
+msgid "Personalized tasks for your site"
+msgstr "Các nhiệm vụ cá nhân hóa cho trang web của bạn"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/TasksList.jsx:55
+msgid "View completed tasks"
+msgstr "Xem nhiệm vụ đã hoàn thành"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:3
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:5
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:3
+#: public/build/extendify-assist-page-3d77963d316910116588.js:5
+#: src/Assist/components/dashboard/Recommendations.jsx:94
+#: src/Assist/components/dashboard/TasksList.jsx:110
+#: src/Assist/components/Recommendations.jsx:74
+#: src/Assist/components/TasksList.jsx:80
+msgid "Congratulations! Take a moment to celebrate."
+msgstr "Chúc mừng! Hãy dành một chút thời gian để ăn mừng."
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:3
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:5
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:3
+#: public/build/extendify-assist-page-3d77963d316910116588.js:5
+#: src/Assist/components/dashboard/Recommendations.jsx:91
+#: src/Assist/components/dashboard/TasksList.jsx:107
+#: src/Assist/components/Recommendations.jsx:71
+#: src/Assist/components/TasksList.jsx:77
+msgid "All caught up!"
+msgstr "Đã cập nhật xong!"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:7
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: src/Assist/components/dashboard/TasksList.jsx:41
+#: src/Assist/hooks/useRouter.js:28 src/Assist/tours/site-assistant.js:42
+msgid "Tasks"
+msgstr "Công việc"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:5
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:5
+#: src/Assist/components/task-items/TaskItem.jsx:25
+#: src/Assist/components/task-items/TourItem.jsx:15
+msgid "Not completed"
+msgstr "Chưa hoàn thành"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:5
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:5
+#: src/Assist/components/task-items/TaskItem.jsx:24
+#: src/Assist/components/task-items/TourItem.jsx:14
+msgid "Completed"
+msgstr "Đã hoàn thành"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/Tours.jsx:39
+msgid "View all %s"
+msgstr "Xem tất cả %s"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/QuickLinks.jsx:18
+#: src/Assist/tours/site-assistant.js:144
+msgid "Quick Links"
+msgstr "Liên kết nhanh"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/QuickLinks.jsx:10
+msgid "No quick links found..."
+msgstr "Không tìm thấy liên kết nhanh nào..."
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/DraftMenu.jsx:25
+msgid "Blog post…"
+msgstr "Bài viết blog…"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:7
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: src/Assist/components/ImageUploader.jsx:137
+#: src/Assist/components/shared/GuidedTour.jsx:441
+msgid "Done"
+msgstr "Đã xong"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:7
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: src/Assist/components/shared/GuidedTour.jsx:400
+msgid "%s of %s"
+msgstr "%s của %s"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:7
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: src/Assist/components/shared/GuidedTour.jsx:394
+msgid "Tour Steps"
+msgstr "Các bước của Tour"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:7
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: src/Assist/components/shared/GuidedTour.jsx:286
+msgid "Tour"
+msgstr "Tour"
+
+#: public/build/extendify-library-91fe85ac2ccfb0f2275b.js:3
+#: src/Library/components/topbar/Topbar.jsx:22
+msgid "Open for new pages"
+msgstr "Mở cho trang mới"
+
+#. translators: %s: Extendify Library term
+#: public/build/extendify-library-91fe85ac2ccfb0f2275b.js:3
+#: src/Library/components/topbar/Topbar.jsx:12
+msgid "Toggle %s on new pages"
+msgstr "Bật/tắt %s trên các trang mới"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: public/build/extendify-library-91fe85ac2ccfb0f2275b.js:1
+#: src/Launch/pages/SiteTypeSelect.jsx:77
+#: src/Library/components/sidebar/SiteTypeControl.jsx:55
+#: src/Library/components/sidebar/SiteTypeControl.jsx:56
+msgid "Search for your business type"
+msgstr "Tìm kiếm theo loại hình doanh nghiệp của bạn"
+
+#. translators: %s: The name of the plugin, Extendify
+#: app/Library/AdminPage.php:83
+msgid "%s Banner"
+msgstr "Banner %s"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/CreatingSite.jsx:191
+msgid "We encountered a server error we cannot recover from. Please reload the page and try again."
+msgstr "Chúng tôi đã gặp lỗi máy chủ mà không thể khắc phục. Vui lòng tải lại trang và thử lại."
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/Recommendations.jsx:35
+msgid "Personalized recommendations for your site"
+msgstr "Gợi ý cá nhân hóa cho trang web của bạn"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:3
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:5
+#: public/build/extendify-assist-page-3d77963d316910116588.js:3
+#: public/build/extendify-assist-page-3d77963d316910116588.js:5
+#: src/Assist/components/Recommendations.jsx:54
+#: src/Assist/components/TasksList.jsx:60
+msgid "Show"
+msgstr "Hiển thị"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:3
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:5
+#: public/build/extendify-assist-page-3d77963d316910116588.js:3
+#: public/build/extendify-assist-page-3d77963d316910116588.js:5
+#: src/Assist/components/Recommendations.jsx:53
+#: src/Assist/components/TasksList.jsx:59
+msgid "Hide"
+msgstr "Ẩn"
+
+#. translators: %s is the number of tasks
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:5
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:7
+#: public/build/extendify-assist-page-3d77963d316910116588.js:5
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: src/Assist/components/TasksList.jsx:48
+#: src/Assist/components/ToursList.jsx:38
+msgid "%s completed"
+msgstr "%s đã hoàn thành"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/tasks/UpdateSiteDescription.jsx:67
+msgid "Save"
+msgstr "Lưu"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/tasks/UpdateSiteDescription.jsx:50
+msgid "Enter a site description..."
+msgstr "Nhập mô tả website..."
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/tasks/UpdateSiteDescription.jsx:38
+msgid "Site description"
+msgstr "Mô tả trang web"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/tasks/UpdateSiteDescription.jsx:14
+msgid "Add site description"
+msgstr "Thêm mô tả trang web"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/tasks/UpdateLogo.jsx:13
+msgid "Upload site logo"
+msgstr "Tải lên logo trang web"
+
+#: app/AdminPageRouter.php:147
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/tours/site-assistant.js:16 src/Assist/tours/site-assistant.js:171
+#: src/Assist/tours/welcome.js:73
+msgid "Site Assistant"
+msgstr "Trợ lý trang web"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/CreatingSite.jsx:97
+msgid "Blog"
+msgstr "Blog"
+
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: src/Assist/pages/parts/Header.jsx:85
+msgid "View site"
+msgstr "Xem trang web"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/notices/WelcomeNotice.jsx:55
+msgid "Your site is ready!"
+msgstr "Trang web của bạn đã sẵn sàng!"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/tasks/UpdateSiteIcon.jsx:13
+msgid "Upload site icon"
+msgstr "Tải lên biểu tượng trang web"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/tasks/UpdateSiteIcon.jsx:20
+msgid "Set site icon"
+msgstr "Đặt biểu tượng trang web"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/tasks/UpdateSiteIcon.jsx:19
+msgid "Site icon"
+msgstr "Biểu tượng trang web"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/tasks/UpdateLogo.jsx:20
+msgid "Set site logo"
+msgstr "Đặt logo cho web"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/tasks/UpdateLogo.jsx:19
+msgid "Site logo"
+msgstr "Logo trang web"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/ImageUploader.jsx:129
+msgid "Remove image"
+msgstr "Xóa ảnh"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/ImageUploader.jsx:119
+msgid "Replace image"
+msgstr "Thay thế ảnh"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/ImageUploader.jsx:76
+msgid "Edit or update the image"
+msgstr "Sửa hoặc cập nhật ảnh"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:7
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: public/build/extendify-deactivate-26ffbbf2b021f57b81bc.js:1
+#: src/Assist/components/Modal.jsx:37
+#: src/Assist/components/shared/GuidedTour.jsx:282 src/Library/deactivate.js:61
+msgid "Close Modal"
+msgstr "Đóng Modal"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/task-items/RecommendationItem.jsx:44
+#: src/Assist/components/task-items/TaskItem.jsx:80
+msgid "Dismiss"
+msgstr "Hủy"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/Launch.jsx:49
+msgid "Select Site Pages"
+msgstr "Chọn trang của site"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/Launch.jsx:40
+msgid "Select Site Design"
+msgstr "Chọn thiết kế trang web"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/Launch.jsx:31
+msgid "Select Site Goals"
+msgstr "Chọn Mục tiêu cho Trang web"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/Launch.jsx:17
+#: src/Assist/components/dashboard/Launch.jsx:26
+#: src/Assist/components/dashboard/Launch.jsx:35
+#: src/Assist/components/dashboard/Launch.jsx:44
+msgid "Continue Building Your Website"
+msgstr "Tiếp tục xây dựng website của bạn"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/Launch.jsx:13
+msgid "Select Site Industry"
+msgstr "Chọn ngành công nghiệp của trang web"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/Launch.jsx:8
+msgid "Let's Start Building Your Website"
+msgstr "Hãy Bắt Đầu Xây Dựng Website Của Bạn"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:3
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:3
+#: src/Assist/components/dashboard/TasksList.jsx:25
+#: src/Assist/components/TasksList.jsx:33
+msgid "No tasks found..."
+msgstr "Không tìm thấy công việc nào..."
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/components/PageControl.jsx:101
+msgid "Exit Launch"
+msgstr "Thoát khởi chạy"
+
+#. translators: %s: The name of the plugin, Extendify
+#: app/Library/AdminPage.php:95
+msgid "Welcome to %s"
+msgstr "Chào mừng đến với %s"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/CreatingSite.jsx:173
+msgid "Redirecting in 3, 2, 1..."
+msgstr "Đang chuyển hướng trong 3, 2, 1..."
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/CreatingSite.jsx:172
+msgid "Your website has been created!"
+msgstr "Website của bạn đã được tạo!"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/CreatingSite.jsx:166
+msgid "Setting up your Site Assistant"
+msgstr "Cài đặt Trợ lý trang web của bạn"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/CreatingSite.jsx:86
+msgid "Starting off with a full website"
+msgstr "Bắt đầu với một trang web đầy đủ"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Assist/components/dashboard/Launch.jsx:16
+#: src/Launch/pages/SiteInformation.jsx:15
+msgid "Site Title"
+msgstr "Tên trang web"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:7
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Assist/components/shared/GuidedTour.jsx:384
+#: src/Launch/components/PageControl.jsx:114
+msgid "Back"
+msgstr "Quay lại"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Assist/components/dashboard/Launch.jsx:7
+#: src/Launch/pages/SiteTypeSelect.jsx:14
+msgid "Site Industry"
+msgstr "Ngành công nghiệp của trang web"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Assist/components/dashboard/Launch.jsx:25 src/Launch/pages/Goals.jsx:21
+msgid "Goals"
+msgstr "Mục tiêu"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/NeedsTheme.jsx:20
+msgid "Take me there"
+msgstr "Đưa tôi tới đó"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/NeedsTheme.jsx:12
+msgid "Hey there, Launch is powered by Extendable and is required to proceed. You can install it from the link below and start over once activated."
+msgstr "Xin chào, Launch được hỗ trợ bởi Extendable và cần thiết để tiếp tục. Bạn có thể cài đặt nó từ liên kết dưới đây và bắt đầu lại sau khi kích hoạt."
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/NeedsTheme.jsx:9
+msgid "One more thing before we start."
+msgstr "Còn một điều nữa trước khi chúng ta bắt đầu."
+
+#. translators: %s: Extendify Library term
+#: app/Library/AdminPage.php:117
+msgid "1. Open the %s"
+msgstr "1. Mở %s"
+
+#: app/Library/AdminPage.php:75
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/tours/welcome.js:30
+msgid "View Site"
+msgstr "Xem trang web"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/CreatingSite.jsx:39
+msgid "Site is not ready to launch."
+msgstr "Trang chưa sẵn sàng để khởi chạy."
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:7
+#: public/build/extendify-assist-page-3d77963d316910116588.js:7
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Assist/components/shared/GuidedTour.jsx:429
+#: src/Launch/components/PageControl.jsx:149
+msgid "Next"
+msgstr "Sau"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Assist/components/dashboard/Launch.jsx:43
+#: src/Assist/tours/welcome.js:147 src/Launch/pages/PagesSelect.jsx:19
+msgid "Pages"
+msgstr "Trang"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/HomeSelect.jsx:37
+msgid "You can personalize this later."
+msgstr "Bạn có thể cá nhân hóa điều này sau."
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Assist/tasks/UpdateSiteDescription.jsx:29
+#: src/Launch/components/LoadingIndicator.jsx:5
+msgid "Loading..."
+msgstr "Đang tải..."
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/support-articles/SearchForm.jsx:59
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/SiteInformation.jsx:83
+msgid "What's the name of your website?"
+msgstr "Tên website của bạn là gì?"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/SiteInformation.jsx:33
+msgid "You can change this later."
+msgstr "Bạn có thể thay đổi điều này sau."
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/pages/SiteInformation.jsx:32
+msgid "What's the name of your new site?"
+msgstr "Tên mới của trang web của bạn là gì?"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:3
+#: src/Launch/components/SmallPreview.jsx:101
+msgid "Press to select"
+msgstr "Nhấn để chọn"
+
+#: public/build/extendify-launch-16a1d8708504da289ef5.js:1
+#: src/Launch/components/RetryNotice.jsx:9
+msgid "Just a moment, this is taking longer than expected."
+msgstr "Chỉ một chút, việc này mất thời gian hơn dự kiến."
+
+#: public/build/extendify-library-91fe85ac2ccfb0f2275b.js:1
+#: src/Library/components/MainButton.jsx:17
+msgid "Design Library"
+msgstr "Thư viện thiết kế"
+
+#: src/Library/components/sidebar/SourceControl.jsx:19
+msgid "Templates"
+msgstr "Mẫu"
+
+#: app/Library/AdminPage.php:178
+msgid "You'll find beautiful high fidelity Gutenberg content to add to your pages in no time!"
+msgstr "Bạn sẽ tìm thấy nội dung Gutenberg chất lượng cao đẹp mắt để thêm vào trang của mình trong thời gian ngắn!"
+
+#. translators: %s: The name of the plugin, Extendify
+#: app/Library/AdminPage.php:172
+msgid "Search by industry, contents, and design attributes. %s has thousands of best-in-class block patterns. Find what you love and add it to the page - done!"
+msgstr "Tìm kiếm theo ngành, nội dung và thuộc tính thiết kế. %s có hàng nghìn mẫu block hàng đầu trong lớp. Tìm những gì bạn yêu thích và thêm vào trang - xong!"
+
+#: app/Library/AdminPage.php:166
+msgid "3. Browse Patterns & Layouts."
+msgstr "3. Duyệt Mẫu & Bố cục."
+
+#. translators: %s: The name of the plugin, Extendify
+#: app/Library/AdminPage.php:156
+msgid "%s supports over sixty types with new industries added regularly."
+msgstr "%s hỗ trợ hơn sáu mươi loại với các ngành được thêm vào thường xuyên."
+
+#: app/Library/AdminPage.php:150
+msgid "With the library open, you can set your site industry - or type - which will surface the perfect industry-specific patterns and full page layouts to drop onto your website."
+msgstr "Với thư viện mở, bạn có thể đặt ngành - hoặc loại - cho trang blog của mình, điều này sẽ hiển thị các mẫu và bố cục trang đầy đủ phù hợp với ngành cụ thể để thả vào trang web của bạn."
+
+#: app/Library/AdminPage.php:147
+msgid "2. Choose a site industry"
+msgstr "2. Chọn ngành nghề của trang web"
+
+#. translators: %1$s = URL.
+#: app/Library/AdminPage.php:134
+msgid "clicking here"
+msgstr "nhấn vào đây"
+
+#. translators: %1$s = URL.
+#: app/Library/AdminPage.php:134
+msgid "You may also add a new page with the library opened for you by %1$s."
+msgstr "Bạn cũng có thể thêm một trang mới với thư viện được mở cho bạn bởi %1$s."
+
+#. translators: %s: Extendify Library term
+#: app/Library/AdminPage.php:126
+msgid "When editing a page or post within the block editor, you'll see the %s button within the editor's header"
+msgstr "Khi chỉnh sửa một trang hoặc bài đăng trong trình chỉnh sửa block, bạn sẽ thấy nút %s trong phần đầu trình chỉnh sửa"
+
+#. translators: %s: The name of the plugin, Extendify
+#: app/Library/AdminPage.php:104
+msgid "%s is a massive library of drop-in block patterns easily customized to your liking. Each pattern is meticulously designed to work with your existing WordPress theme."
+msgstr "%s là một thư viện lớn với các mẫu block dễ dàng tùy chỉnh theo ý thích của bạn. Mỗi mẫu đều được thiết kế tỉ mỉ để hoạt động với chủ đề WordPress hiện tại của bạn."
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/KnowledgeBase.jsx:37
+#: src/Assist/components/support-articles/SearchResults.jsx:57
+#: src/Assist/components/SupportArticles.jsx:151
+#: src/Assist/components/SupportArticles.jsx:160
+msgid "Show all"
+msgstr "Hiển thị tất cả"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/Launch.jsx:34
+msgid "Design"
+msgstr "Thiết kế"
+
+#: public/build/extendify-library-91fe85ac2ccfb0f2275b.js:1
+#: src/Library/components/topbar/CloseButton.jsx:9
+msgid "Close"
+msgstr "Đóng"
+
+#: public/build/extendify-draft-913b179bf3e8f5ed52f1.js:1
+#: src/Draft/components/Input.jsx:65
+msgid "Submit"
+msgstr "Gửi"
+
+#: public/build/extendify-assist-global-156b1852dfc7859cb3e7.js:1
+#: public/build/extendify-assist-page-3d77963d316910116588.js:1
+#: src/Assist/components/dashboard/Settings.jsx:14
+#: src/Assist/tours/library-tour.js:17 src/Assist/tours/page-editor.js:18
+#: src/Assist/tours/page-editor.js:200 src/Assist/tours/welcome.js:265
+msgid "Settings"
+msgstr "Thiết lập"
+
+#: src/Library/components/sidebar/SourceControl.jsx:15
+msgid "Patterns"
+msgstr "Mẫu"
+
+#: public/build/extendify-library-91fe85ac2ccfb0f2275b.js:1
+#: src/Library/components/sidebar/SiteTypeControl.jsx:45
+msgid "Site Type"
+msgstr "Loại trang web"
+
+#. Author URI of the plugin
+msgid "https://extendify.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://extendify.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Description of the plugin
+msgid "Extendify is the platform of site design and creation tools for people that want to build a beautiful WordPress website with a library of patterns and full page layouts for the Gutenberg block editor."
+msgstr "Extendify là nền tảng của các công cụ thiết kế và tạo trang web dành cho những người muốn xây dựng một trang web WordPress đẹp với thư viện các mẫu và bố cục trang đầy đủ cho trình soạn thảo khối Gutenberg."
+
+#. Plugin URI of the plugin
+msgid "https://extendify.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr "https://extendify.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "Extendify"
+msgstr "Extendify"

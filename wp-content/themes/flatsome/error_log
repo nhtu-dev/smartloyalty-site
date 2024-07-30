@@ -1,0 +1,32 @@
+[06-Feb-2024 03:13:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/devt0944/public_html/wp-content/themes/flatsome/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/devt0944/public_html/wp-content/themes/flatsome/index.php on line 8
+[07-Feb-2024 10:44:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/devt0944/public_html/wp-content/themes/flatsome/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/devt0944/public_html/wp-content/themes/flatsome/index.php on line 8
+[08-Feb-2024 10:47:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/devt0944/public_html/wp-content/themes/flatsome/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/devt0944/public_html/wp-content/themes/flatsome/index.php on line 8
+[09-Feb-2024 10:50:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/devt0944/public_html/wp-content/themes/flatsome/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/devt0944/public_html/wp-content/themes/flatsome/index.php on line 8
+[09-Feb-2024 11:50:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/devt0944/public_html/wp-content/themes/flatsome/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/devt0944/public_html/wp-content/themes/flatsome/index.php on line 8
+[10-Feb-2024 10:50:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/devt0944/public_html/wp-content/themes/flatsome/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/devt0944/public_html/wp-content/themes/flatsome/index.php on line 8
+[10-Feb-2024 21:04:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/devt0944/public_html/wp-content/themes/flatsome/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/devt0944/public_html/wp-content/themes/flatsome/index.php on line 8
+[12-Feb-2024 12:07:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/devt0944/public_html/wp-content/themes/flatsome/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/devt0944/public_html/wp-content/themes/flatsome/index.php on line 8

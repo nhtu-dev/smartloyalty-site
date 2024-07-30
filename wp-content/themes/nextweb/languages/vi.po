@@ -1,0 +1,2169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Web3B\n"
+"POT-Creation-Date: 2019-05-22 11:24+0700\n"
+"PO-Revision-Date: 2019-05-22 11:30+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: archive.php:106
+msgid "The content is being updated"
+msgstr "Nội dung đang cập nhật"
+
+#: comments.php:18
+#, php-format
+msgctxt ""
+msgid "1 comment"
+msgid_plural "%1$s comment"
+msgstr[0] "%1$s bình luận"
+
+#: comments.php:25
+msgid "Comments are closed."
+msgstr "Bình luận đã được đóng lại."
+
+#: comments.php:33
+msgid "&larr; previous"
+msgstr "&larr; trước đó"
+
+#: comments.php:34
+msgid "Next &rarr;"
+msgstr "Tiếp theo &rarr;"
+
+#: comments.php:39 comments.php:57
+msgid "Your comment"
+msgstr "Bình luận của bạn"
+
+#: comments.php:48
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: comments.php:48
+msgid "to comment."
+msgstr "để bình luận."
+
+#: comments.php:54
+msgid "Comment with the name:"
+msgstr "Bình luận với tên:"
+
+#: comments.php:62 inc/widgets/wg-support.php:92
+msgid "Name"
+msgstr "Tên"
+
+#: comments.php:65 inc/options.php:856 inc/widgets/wg-information.php:48
+#: inc/widgets/wg-information.php:104 inc/widgets/wg-support.php:76
+#: inc/widgets/wg-support.php:107 inc/widgets/wg-support.php:200
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:69
+msgid "Send"
+msgstr "Gửi"
+
+#: footer.php:37
+msgid "Designed by"
+msgstr "Thiết kế bởi"
+
+#: footer.php:37
+msgid "Viet Nam"
+msgstr "Việt Nam"
+
+#: functions.php:29
+msgid "Primary"
+msgstr "Primary"
+
+#: functions.php:68
+msgid "Primary Sidebar"
+msgstr "Primary Sidebar"
+
+#: functions.php:70 functions.php:80 inc/function-woo.php:18
+msgid "Add widgets here."
+msgstr "Thêm widgets tại đây."
+
+#: functions.php:78
+msgid "Secondary Sidebar"
+msgstr "Secondary Sidebar"
+
+#: functions.php:97
+msgid "Top Header"
+msgstr "Top Header"
+
+#: functions.php:99
+msgid "Top Header widget area"
+msgstr "Top Header widget area"
+
+#: functions.php:122
+#, php-format
+msgid "Footer %d"
+msgstr "Footer %d"
+
+#: functions.php:124
+#, php-format
+msgid "Footer %d widget area"
+msgstr "Footer %d widget area"
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Cài đặt các gói mở rộng bắt buộc"
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Cài đặt gói mở rộng"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Cài đặt gói mở rộng: %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Cập nhật gói mở rộng: %s"
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Có lỗi nào đó xảy ra với API mở rộng."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Theme này yêu cầu bắt buộc các plugin sau: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Chủ đề này đề xuất những plugin sau: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Plugin sau cần phải được cập nhật lên phiên bản mới nhất của nó để đảm bảo "
+"khả năng tương thích tối đa với chủ đề này: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Có sẵn bản cập nhật cho: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Plugin yêu cầu sau đây hiện không hoạt động: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Plugin được đề xuất sau đây hiện không hoạt động: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Bắt đầu cài đặt gói mở rộng"
+
+#: inc/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Bắt đầu cập nhật gói mở rộng"
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Bắt đầu kích hoạt gói mở rộng"
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Trở lại trang Các gói mở rộng cần cài đặt"
+
+#: inc/class-tgm-plugin-activation.php:393
+#: inc/class-tgm-plugin-activation.php:920
+#: inc/class-tgm-plugin-activation.php:2626
+#: inc/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr "Trở lại trang Dashboard"
+
+#: inc/class-tgm-plugin-activation.php:394
+#: inc/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr "Gói mở rộng kích hoạt thành công."
+
+#: inc/class-tgm-plugin-activation.php:395
+#: inc/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Các gói mở rộng sau đã được kích hoạt thành công:"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Không có hành động. Gói mở rộng %1$s đã hoạt động."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Gói mở rộng không kích hoạt. Một phiên bản cao hơn của %s là cần thiết cho "
+"chủ đề này. Hãy cập nhật gói mở rộng."
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tất cả gói mở rộng đã được cài đặt và kích hoạt thành công. %1$s"
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Ẩn thông báo này"
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Có một hoặc nhiều plugin được yêu cầu hoặc được yêu cầu để cài đặt, cập nhật "
+"hoặc kích hoạt."
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Vui lòng liên hệ với quản trị viên của trang web này để được giúp đỡ."
+
+#: inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Gói mở rộng này cần được cập nhật để tương thích với theme của bạn."
+
+#: inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Cập nhật bắt buộc"
+
+#: inc/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr "Đặt biến cấu hình parent_slug thay thế."
+
+#: inc/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Gói plugin từ xa không chứa thư mục có slug mong muốn và đổi tên không hoạt "
+"động."
+
+#: inc/class-tgm-plugin-activation.php:1027
+#: inc/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Vui lòng liên hệ với nhà cung cấp gói mở rộng và yêu cầu họ đóng gói gói mở "
+"rộng của họ theo hướng dẫn của WordPress."
+
+#: inc/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Gói mở rộng từ xa bao gồm nhiều tệp, nhưng các tệp không được đóng gói trong "
+"một thư mục."
+
+#: inc/class-tgm-plugin-activation.php:1214
+#: inc/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "và"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr "Bắt buộc"
+
+#: inc/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr "Đề nghị"
+
+#: inc/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr "Kho WordPress"
+
+#: inc/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr "Nguồn ngoài"
+
+#: inc/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr "Gói có sẵn"
+
+#: inc/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr "Đang chưa được cài đặt"
+
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr "Đã cài đặt nhưng chưa được kích hoạt"
+
+#: inc/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: inc/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr "Cập nhật bắt buộc không khả dụng"
+
+#: inc/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr "Cập nhật bắt buộc"
+
+#: inc/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr "Cập nhật khuyến nghị"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tất cả <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Tới cài đặt <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Cập nhật có sẵn <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Tới kích hoạt <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "không rõ"
+
+#: inc/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr "Phiên bản đã được kích hoạt:"
+
+#: inc/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr "Phiên bản bắt buộc tối thiểu:"
+
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr "Phiên bản có sẵn:"
+
+#: inc/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr "Không có plugin để cài đặt, cập nhật hoặc kích hoạt."
+
+#: inc/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr "Gói mở rộng"
+
+#: inc/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr "Nguồn"
+
+#: inc/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr "Loại"
+
+#: inc/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr "Phiên bản"
+
+#: inc/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr "Trạng thái"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr "Cài đặt %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr "Cập nhật %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr "Kích hoạt %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr "Nâng cấp thông báo từ tác giả plugin:"
+
+#: inc/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr "Cài đặt"
+
+#: inc/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr "Cập nhật"
+
+#: inc/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: inc/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Không có plugin nào được chọn để cài đặt. Không có hành động."
+
+#: inc/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Không có plugin nào được chọn để cập nhật. Không có hành động."
+
+#: inc/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr "Không có plugin nào sẵn có để được cài đặt tại thời điểm này."
+
+#: inc/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr "Không có plugin nào sẵn có để được cập nhật tại thời điểm này."
+
+#: inc/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Không có plugin nào được chọn để kích hoạt. Không có hành động."
+
+#: inc/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr "Không có trình cắm nào có sẵn để được kích hoạt tại thời điểm này."
+
+#: inc/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr "Kích hoạt plugin không thành công."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cập nhật Plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Đã xảy ra lỗi khi cài đặt %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Không thể cài đặt %1$s."
+
+#: inc/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Quá trình cài đặt và kích hoạt đang bắt đầu. Quá trình này có thể mất một "
+"thời gian đối với một số máy chủ, vì vậy hãy kiên nhẫn."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s đã cài đặt và kích hoạt thành công."
+
+#: inc/class-tgm-plugin-activation.php:3602
+#: inc/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr "Hiển thị thông tin chi tiết"
+
+#: inc/class-tgm-plugin-activation.php:3602
+#: inc/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr "Ẩn thông tin chi tiết"
+
+#: inc/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr "Tất cả các cài đặt và kích hoạt đã hoàn thành."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Cài đặt và kích hoạt gói mở rộng %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Quá trình cài đặt đang bắt đầu. Quá trình này có thể mất một thời gian đối "
+"với một số máy chủ, vì vậy hãy kiên nhẫn."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s cài đặt thành công."
+
+#: inc/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr "Tất cả cài đặt đã hoàn thành."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Cài đặt gói mở rộng %1$s (%2$d/%3$d)"
+
+#: inc/function-woo.php:16
+msgid "Shop Sidebar"
+msgstr "Shop Sidebar"
+
+#: inc/function-woo.php:121
+msgid "Continue Shopping"
+msgstr "Tiếp tục mua hàng"
+
+#: inc/function-woo.php:179 inc/options.php:844
+msgid "Information"
+msgstr "Thông tin"
+
+#: inc/function-woo.php:180
+msgid "Gallery"
+msgstr "Thư viện ảnh"
+
+#: inc/function-woo.php:181
+msgid "Video"
+msgstr "Video"
+
+#: inc/function-woo.php:182
+msgid "Attachments"
+msgstr "Tệp đính kèm"
+
+#: inc/function-woo.php:214
+msgid "Quick buy"
+msgstr "Mua ngay"
+
+#: inc/function-woo.php:241
+msgid "Contact"
+msgstr "Liên hệ"
+
+#: inc/function-woo.php:365 inc/function-woo.php:366
+msgid "View detail"
+msgstr "Xem chi tiết"
+
+#: inc/functions-woocommerce/gallery-product/product-image.php:75
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: inc/functions-woocommerce/woocommerce-grid-list-toggle.php:37
+msgid "Grid view"
+msgstr "Hiển thị dạng lưới"
+
+#: inc/functions-woocommerce/woocommerce-grid-list-toggle.php:38
+msgid "List view"
+msgstr "Hiển thị dạng danh sách"
+
+#: inc/functions/breadcrumbs.php:21
+msgid "Search for keyword"
+msgstr "Tìm kiếm cho từ khóa"
+
+#: inc/functions/breadcrumbs.php:23
+msgid "404 Not Found"
+msgstr "404 - Trang không tồn tại"
+
+#: inc/functions/breadcrumbs.php:27
+msgid "Products"
+msgstr "Sản phẩm"
+
+#: inc/functions/formatting.php:147
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: inc/functions/formatting.php:180 inc/functions/formatting.php:181
+#: inc/functions/formatting.php:182
+msgid "The field is required."
+msgstr "Trường thông tin bắt buộc."
+
+#: inc/functions/init.php:128
+msgid "Unauthorized access is denied!"
+msgstr "Truy cập bị từ chối!"
+
+#: inc/functions/init.php:265 inc/functions/init.php:267
+msgid "views"
+msgstr "lượt xem"
+
+#: inc/functions/mobilemenu.php:16
+msgid "MENU"
+msgstr "MENU"
+
+#: inc/options-function.php:16 inc/options-function.php:20
+msgid "Call now"
+msgstr "Gọi ngay"
+
+#: inc/options.php:36 inc/options.php:37
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: inc/options.php:159
+msgid "General Settings"
+msgstr "Cài đặt chung"
+
+#: inc/options.php:166 inc/widgets/wg-support.php:61
+msgid "Appearance"
+msgstr "Giao diện"
+
+#: inc/options.php:173
+msgid "Select layout website"
+msgstr "Chọn kiểu giao diện cho website"
+
+#: inc/options.php:176
+msgid "Full Width Layout"
+msgstr "Giao diện tràn màn hình"
+
+#: inc/options.php:177
+msgid "Boxed Layout"
+msgstr "Giao diện trong khung"
+
+#: inc/options.php:184
+msgid "Main Appearance"
+msgstr "Giao diện chính"
+
+#: inc/options.php:217
+msgid "Logo, Favicon"
+msgstr "Logo, Favicon"
+
+#: inc/options.php:225
+msgid "Logo Image"
+msgstr "Ảnh logo"
+
+#: inc/options.php:232
+msgid "Favicon Image"
+msgstr "Ảnh favicon"
+
+#: inc/options.php:240
+msgid "Header"
+msgstr "Header"
+
+#: inc/options.php:247
+msgid "Header Layout"
+msgstr "Chọn giao diện Header"
+
+#: inc/options.php:267
+msgid "Enable Page Title Bar"
+msgstr "Bật Page Title Bar"
+
+#: inc/options.php:269 inc/options.php:277 inc/options.php:324
+#: inc/options.php:346 inc/options.php:365 inc/options.php:524
+#: inc/options.php:532 inc/options.php:540 inc/options.php:554
+#: inc/options.php:581 inc/options.php:606 inc/options.php:614
+#: inc/options.php:650 inc/options.php:672 inc/options.php:693
+#: inc/options.php:724 inc/options.php:733 inc/options.php:742
+#: inc/options.php:763 inc/options.php:909 inc/options.php:918
+#: inc/options.php:1012 inc/options.php:1020
+msgid "Enable"
+msgstr "Bật"
+
+#: inc/options.php:270 inc/options.php:278 inc/options.php:325
+#: inc/options.php:347 inc/options.php:366 inc/options.php:525
+#: inc/options.php:533 inc/options.php:541 inc/options.php:555
+#: inc/options.php:582 inc/options.php:607 inc/options.php:615
+#: inc/options.php:651 inc/options.php:673 inc/options.php:694
+#: inc/options.php:725 inc/options.php:734 inc/options.php:743
+#: inc/options.php:764 inc/options.php:910 inc/options.php:919
+#: inc/options.php:1013 inc/options.php:1021
+msgid "Disable"
+msgstr "Tắt"
+
+#: inc/options.php:275
+msgid "Enable Top Header Widget"
+msgstr "Bật Top Header Widget"
+
+#: inc/options.php:285
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/options.php:292
+msgid "Enter number column footer"
+msgstr "Nhập số cột Footer"
+
+#: inc/options.php:302
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/options.php:309
+msgid "Slider"
+msgstr "Slider ảnh"
+
+#: inc/options.php:315
+msgid "Gallery Slide"
+msgstr "Thư viện ảnh"
+
+#: inc/options.php:322
+msgid "Enable gallery slider"
+msgstr "Kích hoạt slider thư viện ảnh"
+
+#: inc/options.php:330
+msgid "Photo list"
+msgstr "Danh sách ảnh"
+
+#: inc/options.php:337
+msgid "Advanced Options"
+msgstr "Cài đặt nâng cao"
+
+#: inc/options.php:344
+msgid "Slider autoplay"
+msgstr "Tự động chạy"
+
+#: inc/options.php:352
+msgid "Slider interval"
+msgstr "Thời gian chuyển slide"
+
+#: inc/options.php:363
+msgid "Slider hover pause"
+msgstr "Dừng slider khi hover chuột"
+
+#: inc/options.php:372
+msgid "Slider animate"
+msgstr "Hiệu ứng slider"
+
+#: inc/options.php:384
+msgid "Home Page"
+msgstr "Trang chủ"
+
+#: inc/options.php:390
+msgid "News"
+msgstr "Tin tức"
+
+#: inc/options.php:398 inc/options.php:469
+msgid "Select categories"
+msgstr "Chọn các danh mục"
+
+#: inc/options.php:408 inc/options.php:560
+msgid "Enter number post"
+msgstr "Nhập số bài viết"
+
+#: inc/options.php:418
+msgid "Blog Layout"
+msgstr "Chọn giao diện Blog"
+
+#: inc/options.php:461 inc/vc_shortcode/woo_shortcodes/wtb_product.php:21
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: inc/options.php:479
+msgid "Enter number product"
+msgstr "Nhập số sản phẩm"
+
+#: inc/options.php:489 inc/options.php:638 inc/options.php:780
+msgid "Enter number product per row"
+msgstr "Nhập số sản phẩm mỗi hàng"
+
+#: inc/options.php:503
+msgid "Post"
+msgstr "Bài viết"
+
+#: inc/options.php:509
+msgid "Single post"
+msgstr "Chi tiết bài viết"
+
+#: inc/options.php:516 inc/options.php:664
+msgid "Setting General"
+msgstr "Cài đặt chung"
+
+#: inc/options.php:522
+msgid "Display time and view post"
+msgstr "Hiển thị ngày đăng và số lượt xem bài viết"
+
+#: inc/options.php:530
+msgid "Display buttons share social"
+msgstr "Hiển thị nút chia sẻ mạng xã hội"
+
+#: inc/options.php:538
+msgid "Display post navigation"
+msgstr "Hiển thị thanh điều hướng bài viết"
+
+#: inc/options.php:546
+msgid "Related Post"
+msgstr "Bài viết liên quan"
+
+#: inc/options.php:552
+msgid "Display related post"
+msgstr "Hiển thị bài viết liên quan"
+
+#: inc/options.php:572
+msgid "Category post"
+msgstr "Danh mục bài viết"
+
+#: inc/options.php:579 inc/options.php:648
+msgid "Display hierarchy category"
+msgstr "Hiển thị phân cấp danh mục"
+
+#: inc/options.php:591
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/options.php:597
+msgid "Main Settings"
+msgstr "Cài đặt chung"
+
+#: inc/options.php:604
+msgid "Enable Shop Sidebar"
+msgstr "Bật Shop Sidebar"
+
+#: inc/options.php:612
+msgid "Enable Hover Flip Image Of Product"
+msgstr "Bật chức năng hover lật ảnh sản phẩm"
+
+#: inc/options.php:621
+msgid "Category Product"
+msgstr "Danh mục sản phẩm"
+
+#: inc/options.php:628
+msgid "Enter number product per page"
+msgstr "Nhập số sản phẩm mỗi trang"
+
+#: inc/options.php:657
+msgid "Single Product"
+msgstr "Chi tiết sản phẩm"
+
+#: inc/options.php:670
+msgid "Display attributes product"
+msgstr "Hiển thị thuộc tính sản phẩm"
+
+#: inc/options.php:685
+msgid "Gallery Product"
+msgstr "Thư viện ảnh sản phẩm"
+
+#: inc/options.php:691
+msgid "Enable customizer gallery product"
+msgstr "Kích hoạt chức năng tùy chỉnh thư viện ảnh"
+
+#: inc/options.php:699
+msgid "Choose style of slider gallery product"
+msgstr "Chọn kiểu slider sản phẩm"
+
+#: inc/options.php:702
+msgid "Horizontal"
+msgstr "Ngang"
+
+#: inc/options.php:703
+msgid "Vertical"
+msgstr "Dọc"
+
+#: inc/options.php:711
+msgid "Enter the number of product images in the view"
+msgstr "Nhập số ảnh của thư viện ảnh trong khung nhìn"
+
+#: inc/options.php:722
+msgid "Enable Zoom"
+msgstr "Bật chức năng soi ảnh"
+
+#: inc/options.php:731
+msgid "Enable Lightbox"
+msgstr "Bật chức năng phóng ảnh"
+
+#: inc/options.php:740
+msgid "Enable autoplay for gallery"
+msgstr "Bật tự động chạy cho thư viện ảnh"
+
+#: inc/options.php:755
+msgid "Related Product"
+msgstr "Sản phẩm liên quan"
+
+#: inc/options.php:761
+msgid "Display related products"
+msgstr "Hiển thị sản phẩm liên quan"
+
+#: inc/options.php:769
+msgid "Enter number related product"
+msgstr "Nhập số sản phẩm liên quan"
+
+#: inc/options.php:800
+msgid "Social"
+msgstr "Mạng xã hội"
+
+#: inc/options.php:807
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/options.php:812
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/options.php:817
+msgid "Google +"
+msgstr "Google +"
+
+#: inc/options.php:822
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/options.php:827
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/options.php:832
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/options.php:837
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/options.php:851
+msgid "Telephone number"
+msgstr "Số điện thoại"
+
+#: inc/options.php:861 inc/widgets/wg-information.php:36
+#: inc/widgets/wg-information.php:88
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: inc/options.php:866
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: inc/options.php:873
+msgid "Insert code"
+msgstr "Nhúng code"
+
+#: inc/options.php:880
+msgid "Insert code to header"
+msgstr "Chèn code vào Header"
+
+#: inc/options.php:885
+msgid "Insert code to footer"
+msgstr "Chèn code vào Footer"
+
+#: inc/options.php:892
+msgid "3B Developer"
+msgstr "3B Developer"
+
+#: inc/options.php:899
+msgid "User Functions"
+msgstr "Chức năng người dùng"
+
+#: inc/options.php:906
+msgid "Restrict user"
+msgstr "Hạn chế chức năng người dùng"
+
+#: inc/options.php:907
+msgid "Restrict user in admin page"
+msgstr "Hạn chế chức năng của người dùng trong trang quản trị"
+
+#: inc/options.php:915
+msgid "Hidden information"
+msgstr "Ẩn thông tin"
+
+#: inc/options.php:916
+msgid "Hidden information dashboard & login page"
+msgstr "Ẩn thông tin ở bảng điều khiển trong trang quản trị và trang đăng nhập"
+
+#: inc/options.php:925
+msgid "Website Functions"
+msgstr "Chức năng website"
+
+#: inc/options.php:932
+msgid "Plugin Chat"
+msgstr "Plugin Chat"
+
+#: inc/options.php:938
+msgid "Enter telephone number"
+msgstr "Nhập số điện thoại"
+
+#: inc/options.php:948
+msgid "Phone Ring Style"
+msgstr "Kiểu giao diện điện thoại rung"
+
+#: inc/options.php:958
+msgid "Phone Ring Color"
+msgstr "Màu sắc điện thoại rung"
+
+#: inc/options.php:965
+msgid "Enter zalo number"
+msgstr "Nhập số Zalo"
+
+#: inc/options.php:981
+msgid "Metaslider"
+msgstr "Metaslider"
+
+#: inc/options.php:989
+msgid "Select slider"
+msgstr "Chọn slide"
+
+#: inc/options.php:1003
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: inc/options.php:1010
+msgid "Tooltip"
+msgstr "Tooltip"
+
+#: inc/options.php:1018
+msgid "Cart"
+msgstr "Giỏ hàng"
+
+#: inc/options.php:1129
+msgid "Section via hook"
+msgstr "Section via hook"
+
+#: inc/options.php:1130
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+"<p class=\"description\">Đây là một phần được tạo ra bằng cách thêm một bộ "
+"lọc vào mảng các phần. Có thể được sử dụng bởi các chủ đề con để thêm / gỡ "
+"bỏ các phần từ các tùy chọn.</p>"
+
+#: inc/shortcode/shortcode-blog.php:33 inc/shortcode/shortcode-blog.php:404
+#: inc/shortcode/shortcode-blog.php:472
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:148
+#: inc/vc_shortcode/templates/wtb_blog_slider.php:16
+#: inc/widgets/wg-post-list.php:59
+msgid "Read more"
+msgstr "Xem thêm"
+
+#: inc/vc_shortcode/lib/functions.php:18
+msgid "Date"
+msgstr "Ngày tháng"
+
+#: inc/vc_shortcode/lib/functions.php:19
+msgid "ID"
+msgstr "ID"
+
+#: inc/vc_shortcode/lib/functions.php:20
+msgid "Author"
+msgstr "Tác giả"
+
+#: inc/vc_shortcode/lib/functions.php:21
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:60
+#: inc/widgets/wg-fblikebox.php:55 inc/widgets/wg-information.php:80
+#: inc/widgets/wg-page.php:40 inc/widgets/wg-post-list.php:95
+#: inc/widgets/wg-product-slider.php:96 inc/widgets/wg-social.php:72
+#: inc/widgets/wg-support.php:50 inc/widgets/wg-view-post-list.php:105
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/vc_shortcode/lib/functions.php:22
+msgid "Modified"
+msgstr "Modified"
+
+#: inc/vc_shortcode/lib/functions.php:23
+msgid "Random"
+msgstr "Ngẫu nhiên"
+
+#: inc/vc_shortcode/lib/functions.php:24
+msgid "Comment count"
+msgstr "Số lượt bình luận"
+
+#: inc/vc_shortcode/lib/functions.php:25
+msgid "Menu order"
+msgstr "Thứ tự"
+
+#: inc/vc_shortcode/lib/functions.php:32
+msgid "Descending"
+msgstr "Giảm dần"
+
+#: inc/vc_shortcode/lib/functions.php:33
+msgid "Ascending"
+msgstr "Tăng dần"
+
+#: inc/vc_shortcode/lib/functions.php:75
+msgid "Extra class name"
+msgstr "Thêm class"
+
+#: inc/vc_shortcode/lib/functions.php:77
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+"Nếu bạn muốn tạo kiểu phần tử nội dung cụ thể khác nhau, hãy sử dụng trường "
+"này để thêm tên class và sau đó tham chiếu đến nó trong tệp css của bạn."
+
+#: inc/vc_shortcode/lib/functions.php:87
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:71
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:175
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:70
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:116
+msgid "Choose a category"
+msgstr "Chọn một chuyên mục"
+
+#: inc/vc_shortcode/lib/wtb-post-type.php:14
+#: inc/vc_shortcode/shortcodes/wtb_static_block.php:26
+#: inc/vc_shortcode/shortcodes/wtb_static_block.php:35
+msgid "Static Block"
+msgstr "Block"
+
+#: inc/vc_shortcode/lib/wtb-post-type.php:35
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: inc/vc_shortcode/lib/wtb-post-type.php:36
+#, php-format
+msgid "Add New %s"
+msgstr "Thêm mới %s"
+
+#. translators: %s: Name of current post
+#: inc/vc_shortcode/lib/wtb-post-type.php:37 template-parts/content-page.php:37
+#, php-format
+msgid "Edit %s"
+msgstr "Chỉnh sửa %s"
+
+#: inc/vc_shortcode/lib/wtb-post-type.php:38
+#, php-format
+msgid "New %s"
+msgstr "%s mới"
+
+#: inc/vc_shortcode/lib/wtb-post-type.php:39
+#, php-format
+msgid "View %s"
+msgstr "Xem %s"
+
+#: inc/vc_shortcode/lib/wtb-post-type.php:40
+#, php-format
+msgid "Search %s"
+msgstr "Tìm kiếm %s"
+
+#: inc/vc_shortcode/lib/wtb-post-type.php:41
+#, php-format
+msgid "No %s found"
+msgstr "Không tìm thấy %s"
+
+#: inc/vc_shortcode/lib/wtb-post-type.php:42
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Không tìm thấy %s trong thùng rác"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:20
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:22
+msgid "Show multiple posts in a category"
+msgstr "Hiển thị các bài viết trong chuyên mục"
+
+#. Theme Name of the plugin/theme
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:23
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:24
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:20
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:20
+#: inc/vc_shortcode/shortcodes/wtb_static_block.php:29
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:24
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:24
+msgid "Web3B"
+msgstr "Web3B"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:29 inc/widgets/wg-support.php:65
+msgid "Layout"
+msgstr "Giao diện"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:32
+msgid "Style 1"
+msgstr "Giao diện 1"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:33
+msgid "Style 2"
+msgstr "Giao diện 2"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:34
+msgid "Style 3"
+msgstr "Giao diện 3"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:35
+msgid "Style 4"
+msgstr "Giao diện 4"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:36
+msgid "Style 5"
+msgstr "Giao diện 5"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:37
+msgid "Style 6"
+msgstr "Giao diện 6"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:38
+msgid "Style 7"
+msgstr "Giao diện 7"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:39
+msgid "Style 8"
+msgstr "Giao diện 8"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:46
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:30
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:45
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:30
+msgid "Posts Count"
+msgstr "Số lượng bài viết muốn lấy"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:55
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:159
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:54
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:100
+msgid "Order by"
+msgstr "Sắp xếp theo"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:58
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:162
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:57
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:103
+#, php-format
+msgid "Select how to sort retrieved products_category. More at %s."
+msgstr "Select how to sort retrieved products_category. More at %s."
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:63
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:167
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:62
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:108
+msgid "Order way"
+msgstr "Kiểu sắp xếp"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:66
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:170
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:65
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:111
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr "Designates the ascending or descending order. More at %s."
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:79
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:207
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:189
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:132
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:78
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:148
+msgid "CSS box"
+msgstr "CSS box"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog.php:81
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:209
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:191
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:134
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:80
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:150
+msgid "Design Options"
+msgstr "Design Options"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:21
+msgid "Blog Slider"
+msgstr "Blog Slider"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:23
+msgid "Show posts slider in a category"
+msgstr "Hiển thị slide bài viết trong chuyên mục"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:37
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:74
+msgid "Number Column on Extra large screen (>= 1200px)"
+msgstr "Số cột trên màn hình thiết bị (> 1200px)"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:41
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:53
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:65
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:77
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:89
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:101
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:80
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:94
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:108
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:120
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:134
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:148
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:36
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:41
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:53
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:65
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:77
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:89
+msgid "4"
+msgstr "4"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:42
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:54
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:66
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:78
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:90
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:102
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:81
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:95
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:109
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:121
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:135
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:149
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:35
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:42
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:54
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:66
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:78
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:90
+msgid "3"
+msgstr "3"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:43
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:55
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:67
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:79
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:91
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:103
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:82
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:96
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:110
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:122
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:136
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:150
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:34
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:43
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:55
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:67
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:79
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:91
+msgid "2"
+msgstr "2"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:44
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:56
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:68
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:80
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:92
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:104
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:83
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:97
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:111
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:123
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:137
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:151
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:33
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:44
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:56
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:68
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:80
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:92
+msgid "1"
+msgstr "1"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:49
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:88
+msgid "Number Column on Large screen (992px - 1199px)"
+msgstr "Số cột trên màn hình thiết bị (992px - 1199px)"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:61
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:102
+msgid "Number Column on Medium screen (769px - 991px)"
+msgstr "Số cột trên màn hình thiết bị (769px - 991px)"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:73
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:116
+msgid "Number Column on Small screen (577px - 767px)"
+msgstr "Số cột trên màn hình thiết bị (577px - 767px)"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:85
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:128
+msgid "Number Column on Extra small screen (< 576px)"
+msgstr "Số cột trên màn hình thiết bị (< 576px)"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:97
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:142
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:85
+msgid "Number row"
+msgstr "Số hàng"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:109
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:156
+msgid "Image size"
+msgstr "Kích thước ảnh"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:113
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:160
+msgid ""
+"Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by theme). Alternatively enter size in pixels (Example: "
+"200x100 (Width x Height))."
+msgstr ""
+"Nhập kích thước ảnh (Ví dụ: \"thumbnail\", \"medium\", \"large\", \"full\" "
+"hoặc kích thước khác)"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:117
+msgid "Show meta post"
+msgstr "Hiển thị meta bài viết"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:119
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:125
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:142
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:188
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:199
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:54
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:171
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:182
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:129
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:140
+msgid "Yes"
+msgstr "Có"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:123
+msgid "Show content limit"
+msgstr "Hiển thị nội dung tóm tắt"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:129
+msgid "Number character limit"
+msgstr "Số ký tự tối đa"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:140
+msgid "Show view more"
+msgstr "Hiển thị nút xem thêm"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:146
+msgid "View more text"
+msgstr "Chữ nút xem thêm"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:184
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:167
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:125
+msgid "Dots Navigation"
+msgstr "Dots Navigation"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:189
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:200
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:53
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:172
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:183
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:130
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:141
+msgid "No"
+msgstr "Không"
+
+#: inc/vc_shortcode/shortcodes/wtb_blog_slider.php:195
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:178
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:136
+msgid "Arrows Navigation"
+msgstr "Arrows Navigation"
+
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:17
+msgid "Carousel Images"
+msgstr "Slide ảnh"
+
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:19
+msgid "Show one carousel images"
+msgstr "Hiển thị một slide ảnh"
+
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:26
+msgid "Images"
+msgstr "Các ảnh"
+
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:29
+msgid "Select images from media library."
+msgstr "Chọn hình ảnh từ thư viện phương tiện."
+
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:37
+msgid "On click action"
+msgstr "Hành động khi click"
+
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:41
+msgid "Lightbox"
+msgstr "Phóng ảnh Lightbox"
+
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:42
+msgid "Custom link"
+msgstr "Link tùy chỉnh"
+
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:43
+#: inc/widgets/wg-page.php:71 inc/widgets/wg-post-list.php:119
+#: inc/widgets/wg-product-slider.php:130 inc/widgets/wg-view-post-list.php:127
+msgid "None"
+msgstr "Không"
+
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:49
+msgid "Open in new tab"
+msgstr "Mở trong 1 tab mới"
+
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:64
+msgid "Custom links"
+msgstr "Link tùy chỉnh"
+
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:66
+msgid ""
+"Enter links for each slide (Note: divide links with linebreaks (Enter))."
+msgstr ""
+"Nhập liên kết cho mỗi ảnh slide (Lưu ý: chia liên kết với ngắt dòng (Enter))."
+
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:78
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:92
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:106
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:132
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:146
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:38
+msgid "6"
+msgstr "6"
+
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:79
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:93
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:107
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:133
+#: inc/vc_shortcode/shortcodes/wtb_carousel_image.php:147
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:37
+msgid "5"
+msgstr "5"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:17
+msgid "Infobox"
+msgstr "Box thông tin"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:19
+msgid "Show infobox width heading, image and content"
+msgstr "Hiển thị một box thông tin gồm tiêu đề, ảnh và nội dung"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:28
+msgid "Box Style"
+msgstr "Box Style"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:32
+msgid "Icon at Left with heading"
+msgstr "Icon ở bên trái cùng tiêu đề"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:33
+msgid "Icon at Right with heading"
+msgstr "Icon ở bên phải cùng tiêu đề"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:34
+msgid "Icon at Left"
+msgstr "Icon ở bên trái"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:35
+msgid "Icon at Right"
+msgstr "Icon ở bên phải"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:36
+msgid "Icon at Top"
+msgstr "Icon ở trên cùng"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:38
+msgid ""
+"Select icon position. Icon box style will be changed according to the icon "
+"position."
+msgstr ""
+"Chọn vị trí biểu tượng. Kiểu box thông tin sẽ được thay đổi theo vị trí biểu "
+"tượng."
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:43
+msgid "Upload Image Icon:"
+msgstr "Tải ảnh icon"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:46
+msgid "Upload the custom image icon."
+msgstr "Tài lên một ảnh tùy ý"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:51
+msgid "Image Width (px)"
+msgstr "Chiều rộng ảnh (px)"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:54
+msgid "Provide image width (px)"
+msgstr "Nhập chiều rộng ảnh (px)"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:64
+msgid "Provide the title for this icon box."
+msgstr "Nhập tiêu đề cho box thông tin"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:69
+msgid "Tag"
+msgstr "Tag"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:73
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:74
+msgid "H1"
+msgstr "H1"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:75
+msgid "H2"
+msgstr "H2"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:76
+msgid "H4"
+msgstr "H4"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:77
+msgid "H5"
+msgstr "H5"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:78
+msgid "H6"
+msgstr "H6"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:79
+msgid "Div"
+msgstr "Div"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:80
+msgid "p"
+msgstr "p"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:81
+msgid "span"
+msgstr "span"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:83
+msgid "Default is H3"
+msgstr "Mặc định là H3"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:90
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Description"
+msgstr "Nội dung"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:93
+msgid "Provide the description for this icon box."
+msgstr "Nhập nội dung cho box thông tin"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:99
+msgid "Apply link to:"
+msgstr "Đặt link tới"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:102
+msgid "No Link"
+msgstr "No Link"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:103
+msgid "Complete Box"
+msgstr "Complete Box"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:104
+msgid "Box Title"
+msgstr "Box Title"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:105
+msgid "Display Read More"
+msgstr "Display Read More"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:107
+msgid "Select whether to use color for icon or not."
+msgstr "Select whether to use color for icon or not."
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:113
+msgid "Add Link"
+msgstr "Add Link"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:116
+msgid ""
+"Add a custom link or select existing page. You can remove existing link as "
+"well."
+msgstr ""
+"Add a custom link or select existing page. You can remove existing link as "
+"well."
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:123
+msgid "Read More Text"
+msgstr "Read More Text"
+
+#: inc/vc_shortcode/shortcodes/wtb_infobox.php:126
+msgid "Customize the read more text."
+msgstr "Customize the read more text."
+
+#: inc/vc_shortcode/shortcodes/wtb_static_block.php:15
+msgid "Choose a block to display"
+msgstr "Chọn block để hiển thị"
+
+#: inc/vc_shortcode/shortcodes/wtb_static_block.php:28
+msgid "Show static block"
+msgstr "Hiển thị block"
+
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:23
+msgid "Show multiple products in a category"
+msgstr "Hiển thị các sản phẩm trong chuyên mục"
+
+#: inc/vc_shortcode/woo_shortcodes/wtb_product.php:30
+msgid "Number of products per row"
+msgstr "Số sản phẩm mỗi hàng"
+
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:21
+msgid "Product Slider"
+msgstr "Slider sản phẩm"
+
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:23
+msgid "Show products slider in a category"
+msgstr "Hiển thị slide sản phẩm trong chuyên mục"
+
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:37
+msgid "Number Column on Desktop Large (> 1200px)"
+msgstr "Số cột trên màn Desktop Large (> 1200px)"
+
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:49
+msgid "Number Column on Desktop"
+msgstr "Số cột trên màn Desktop"
+
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:61
+msgid "Number Column on Tablets"
+msgstr "Số cột trên màn Tablets"
+
+#: inc/vc_shortcode/woo_shortcodes/wtb_product_slider.php:73
+msgid "Number Column on Mobile"
+msgstr "Số cột trên màn Mobile"
+
+#: inc/widgets/wg-fblikebox.php:13
+msgid "3B - Facebook Like Box"
+msgstr "3B - Facebook Like Box"
+
+#: inc/widgets/wg-fblikebox.php:15
+msgid "Display like box fanpage Facebook"
+msgstr "Hiển thị Like Box Facebook"
+
+#: inc/widgets/wg-fblikebox.php:32 template-parts/content.php:54
+msgid "en_US"
+msgstr "vi_VN"
+
+#: inc/widgets/wg-fblikebox.php:49
+msgid "Like Facebook"
+msgstr "Like Facebook"
+
+#: inc/widgets/wg-fblikebox.php:59
+msgid "Link Fanpage"
+msgstr "Link Fanpage"
+
+#: inc/widgets/wg-information.php:14
+msgid "3B - Information contact"
+msgstr "3B - Thông tin liên hệ"
+
+#: inc/widgets/wg-information.php:16
+msgid "Display information contact"
+msgstr "Hiển thị thông tin liên hệ"
+
+#: inc/widgets/wg-information.php:39 inc/widgets/wg-information.php:92
+msgid "Telephone"
+msgstr "Số điện thoại"
+
+#: inc/widgets/wg-information.php:42 inc/widgets/wg-information.php:96
+msgid "Hotline"
+msgstr "Hotline"
+
+#: inc/widgets/wg-information.php:45 inc/widgets/wg-information.php:100
+msgid "Fax"
+msgstr "Fax"
+
+#: inc/widgets/wg-information.php:51 inc/widgets/wg-information.php:108
+msgid "Website"
+msgstr "Website"
+
+#: inc/widgets/wg-information.php:84
+msgid "Company"
+msgstr "Công ty"
+
+#: inc/widgets/wg-information.php:113
+msgid "Hide label"
+msgstr "Không hiển thị nhãn"
+
+#: inc/widgets/wg-information.php:117
+msgid "Hide icon"
+msgstr "Không hiển thị biểu tượng"
+
+#: inc/widgets/wg-page.php:14
+msgid "3B - Featured Page"
+msgstr "3B - Trang"
+
+#: inc/widgets/wg-page.php:16
+msgid "Display featured page"
+msgstr "Hiển thị một trang bất kỳ"
+
+#: inc/widgets/wg-page.php:45
+msgid "Page"
+msgstr "Trang"
+
+#: inc/widgets/wg-page.php:53 inc/widgets/wg-post-list.php:113
+#: inc/widgets/wg-view-post-list.php:121
+msgid "Show Featured Image"
+msgstr "Hiển thị ảnh đại diện"
+
+#: inc/widgets/wg-page.php:57 inc/widgets/wg-post-list.php:127
+#: inc/widgets/wg-product-slider.php:138 inc/widgets/wg-view-post-list.php:135
+msgid "Image Size"
+msgstr "Kích thước ảnh"
+
+#: inc/widgets/wg-page.php:69 inc/widgets/wg-post-list.php:117
+#: inc/widgets/wg-product-slider.php:128 inc/widgets/wg-view-post-list.php:125
+msgid "Image Alignment"
+msgstr "Căn lề ảnh"
+
+#: inc/widgets/wg-page.php:72 inc/widgets/wg-post-list.php:120
+#: inc/widgets/wg-product-slider.php:131 inc/widgets/wg-view-post-list.php:128
+msgid "Left"
+msgstr "Trái"
+
+#: inc/widgets/wg-page.php:73 inc/widgets/wg-post-list.php:121
+#: inc/widgets/wg-product-slider.php:132 inc/widgets/wg-view-post-list.php:129
+msgid "Right"
+msgstr "Phải"
+
+#: inc/widgets/wg-page.php:74 inc/widgets/wg-post-list.php:122
+#: inc/widgets/wg-product-slider.php:133 inc/widgets/wg-view-post-list.php:130
+msgid "Center"
+msgstr "Chính giữa"
+
+#: inc/widgets/wg-page.php:82
+msgid "Show Page Title"
+msgstr "Hiển thị tiêu đề trang"
+
+#: inc/widgets/wg-page.php:87
+msgid "Show Page Content"
+msgstr "Hiển thị nội dung trang"
+
+#: inc/widgets/wg-page.php:91
+msgid "Content Character Limit"
+msgstr "Số ký tự tối đa"
+
+#: inc/widgets/wg-page.php:96
+msgid "More Text"
+msgstr "Ký tự thêm"
+
+#: inc/widgets/wg-post-list.php:14
+msgid "3B - Featured Posts"
+msgstr "3B - Danh sách bài viết"
+
+#: inc/widgets/wg-post-list.php:16
+msgid "Displays featured posts with thumbnails"
+msgstr "Hiển thị danh sách bài viết theo chuyên mục"
+
+#: inc/widgets/wg-post-list.php:100 inc/widgets/wg-view-post-list.php:110
+msgid "Number of Posts to Show"
+msgstr "Số bài viết hiển thị"
+
+#: inc/widgets/wg-post-list.php:105 inc/widgets/wg-product-slider.php:121
+msgid "Category"
+msgstr "Chuyên mục"
+
+#: inc/widgets/wg-post-list.php:107 inc/widgets/wg-product-slider.php:123
+msgid "Select category"
+msgstr "Chọn chuyên mục"
+
+#: inc/widgets/wg-post-list.php:139 inc/widgets/wg-view-post-list.php:147
+msgid "Content Type"
+msgstr "Chọn 1 lựa chọn"
+
+#: inc/widgets/wg-post-list.php:141 inc/widgets/wg-view-post-list.php:149
+msgid "Show Content"
+msgstr "Hiển thị nội dung đầy đủ"
+
+#: inc/widgets/wg-post-list.php:142 inc/widgets/wg-view-post-list.php:150
+msgid "Show Excerpt"
+msgstr "Hiển thị tóm tắt"
+
+#: inc/widgets/wg-post-list.php:143 inc/widgets/wg-view-post-list.php:151
+msgid "Show Content Limit"
+msgstr "Hiển thị nội dung tóm tắt"
+
+#: inc/widgets/wg-post-list.php:144 inc/widgets/wg-view-post-list.php:152
+msgid "No Content"
+msgstr "Không hiển thị"
+
+#: inc/widgets/wg-post-list.php:149 inc/widgets/wg-view-post-list.php:157
+msgid "Limit content to"
+msgstr "Số ký tự tối đa"
+
+#: inc/widgets/wg-post-list.php:151 inc/widgets/wg-view-post-list.php:159
+msgid "character"
+msgstr "ký tự"
+
+#: inc/widgets/wg-product-slider.php:13
+msgid "3B - Products Slider"
+msgstr "3B - Slider sản phẩm"
+
+#: inc/widgets/wg-product-slider.php:15
+msgid "Display slide list product"
+msgstr "Hiển thị 1 slider sản phẩm"
+
+#: inc/widgets/wg-product-slider.php:101
+msgid "Select type slider"
+msgstr "Chọn kiểu slide"
+
+#: inc/widgets/wg-product-slider.php:103
+msgid "Vertical Slider"
+msgstr "Slider chạy dọc"
+
+#: inc/widgets/wg-product-slider.php:104
+msgid "Horizontal Slider"
+msgstr "Slider chạy ngang"
+
+#: inc/widgets/wg-product-slider.php:109
+msgid "Enter the product number in the view"
+msgstr "Nhập số sản phẩm trong khung nhìn"
+
+#: inc/widgets/wg-social.php:14
+msgid "3B - Social"
+msgstr "3B - Mạng xã hội"
+
+#: inc/widgets/wg-social.php:16
+msgid "Display information social"
+msgstr "Hiển thị thông tin mạng xã hội"
+
+#: inc/widgets/wg-social.php:75
+msgid ""
+"<p>This widget content is displayed from <strong>Theme Options -> Social</"
+"strong></p>"
+msgstr ""
+"<p>Nội dung widget này được hiển thị từ mục <strong>Theme Options -> Social</"
+"strong></p>"
+
+#: inc/widgets/wg-support.php:13
+msgid "3B - Support"
+msgstr "3B - Hỗ trợ trực tuyến"
+
+#: inc/widgets/wg-support.php:15
+msgid "Display list support for website"
+msgstr "Hiển thị danh sách hỗ trợ trực tuyến"
+
+#: inc/widgets/wg-support.php:41
+msgid "Support Online"
+msgstr "Hỗ trợ trực tuyến"
+
+#: inc/widgets/wg-support.php:55 inc/widgets/wg-support.php:88
+msgid "Number supporter"
+msgstr "Số hỗ trợ trực tuyến"
+
+#: inc/widgets/wg-support.php:70
+msgid "Save change"
+msgstr "Lưu thay đổi"
+
+#: inc/widgets/wg-support.php:99
+msgid "Phone"
+msgstr "Số điện thoại"
+
+#: inc/widgets/wg-support.php:116
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/widgets/wg-view-post-list.php:14
+msgid "3B - Top view posts"
+msgstr "3B - Danh sách bài viết nhiều lượt xem"
+
+#: inc/widgets/wg-view-post-list.php:16
+msgid "Top list posts by views"
+msgstr "Danh sách bài viết nhiều lượt xem"
+
+#: inc/widgets/wg-view-post-list.php:68
+msgid "View more"
+msgstr "Xem thêm"
+
+#: inc/widgets/wg-view-post-list.php:115
+msgid "Post date"
+msgstr "Ngày đăng bài"
+
+#: search.php:23
+#, php-format
+msgid "Search for keyword: %s"
+msgstr "Tìm kiếm cho từ khóa: %s"
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sẵn sang đăng bài viết đầu tiên? <a href=\"%1$s\">Bắt đầu ngay</a>."
+
+#: template-parts/content-none.php:32
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Xin lỗi, nhưng không có gì phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử "
+"lại với từ khóa khác."
+
+#: template-parts/content-none.php:36
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Có vẻ như chúng tôi không thể&rsquo; tìm thấy những gì bạn&rsquo;re đang tìm "
+"kiếm. Có lẽ tìm kiếm có thể giúp đỡ bạn."
+
+#: template-parts/content-page.php:25
+msgid "Pages:"
+msgstr "Trang:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:39
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Đọc tiếp %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content.php:43
+msgid "Tags"
+msgstr "Tags"
+
+#: template-parts/content.php:88
+msgid "Next Post"
+msgstr "Bài viết trước đó"
+
+#: template-parts/content.php:96
+msgid "Previous Post"
+msgstr "Bài viết sau đó"
+
+#: template-parts/content.php:139
+msgid "Related posts"
+msgstr "Bài viết liên quan"
+
+#: woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr "Xóa sản phẩm này"
+
+#: woocommerce/cart/mini-cart.php:91
+msgid "Subtotal"
+msgstr "Tổng phụ"
+
+#: woocommerce/cart/mini-cart.php:99
+msgid "No products in the cart."
+msgstr "Không có sản phẩm nào trong giỏ hàng."
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Danh mục:"
+
+#: woocommerce/single-product/meta.php:37
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Tag:"
+
+#: woocommerce/single-product/product-image.php:43
+msgid "Awaiting product image"
+msgstr "Ảnh sản phẩm đang cập nhật"
+
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s khách hàng đánh giá"
+
+#: woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr "Sản phẩm liên quan"
+
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr "Thông tin đính kèm"
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr "Bạn cũng có thể thích&hellip;"
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "thietkeweb3b.com"
+msgstr "thietkeweb3b.com"
+
+#. Author of the plugin/theme
+msgid "Quang Hoa"
+msgstr "Quang Hoa"
+
+#, fuzzy
+#~| msgctxt "plugins"
+#~| msgid "All <span class=\"count\">(%s)</span>"
+#~| msgid_plural "All <span class=\"count\">(%s)</span>"
+#~ msgid "<p class=\"fn\">%s</p>"
+#~ msgstr "Tất cả <span class=\"count\">(%s)</span>"
+
+#~ msgid "Comment"
+#~ msgstr "Bình luận của bạn"
+
+#~ msgctxt "comments title"
+#~ msgid "One thought on &ldquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+#~ msgstr[0] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#~ msgid "Comment navigation"
+#~ msgstr "Điều hướng bình luận"
+
+#~ msgid "Newer Comments"
+#~ msgstr "Bình luận mới hơn"
+
+#~ msgid "Weight"
+#~ msgstr "Cân nặng"
+
+#~ msgid "Dimensions"
+#~ msgstr "Kích thước"
+
+#~ msgid "en-US"
+#~ msgstr "vi"
+
+#~ msgid "Category ID"
+#~ msgstr "ID chuyên mục"
+
+#~ msgid "Navigation Arrows"
+#~ msgstr "Navigation Arrows"
+
+#~ msgid "Google map embed"
+#~ msgstr "Mã google map"
+
+#~ msgid "Display Widget Shop Sidebar"
+#~ msgstr "Hiển thị Widget Shop Sidebar"
+
+#~ msgid "Display horizontal slide list product"
+#~ msgstr "Hiển thị 1 slide sản phẩm chạy ngang"

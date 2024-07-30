@@ -1,0 +1,8 @@
+[01-Sep-2023 21:35:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/devt0944/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devt0944/public_html/wp-admin/includes/admin.php on line 16
+[04-Sep-2023 08:56:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/devt0944/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devt0944/public_html/wp-admin/includes/admin.php on line 16
